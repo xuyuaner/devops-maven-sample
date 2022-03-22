@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'devops' // change me
         GITHUB_ACCOUNT = 'xuyuaner' // change me
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID = 'f9a355453c00cd36711c43fb9c299be6ce7dee97'
+        SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
     stages {
